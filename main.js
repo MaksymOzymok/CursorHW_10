@@ -9,6 +9,6 @@ document.addEventListener('keydown',function (event) {
 
     setTimeout(()=>{
         item.classList.remove('playing')
-    },200);
+    },300);
 
 });
